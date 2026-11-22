@@ -1,0 +1,12 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# macOS
+.DS_Store
